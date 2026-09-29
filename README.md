@@ -31,3 +31,4 @@ Then open http://localhost:8080
 ## Next production phase
 
 Connect React/TypeScript frontend to FastAPI + PostgreSQL/Supabase, add authentication, persistent student profiles, question bank, coding sandbox, AI-generated missions, teacher dashboard, certificates, analytics and team challenges.
+ALGO AI ODYSSEY - GitHub Pages deployment test
